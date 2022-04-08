@@ -42,7 +42,7 @@ const estilo = StyleSheet.create({
     botoes:{
         padding:5,
         marginHorizontal:10,
-        width:'45',
+        width:'45%',
         alignItems:'center',
         justifyContent:'flex-start',
 
