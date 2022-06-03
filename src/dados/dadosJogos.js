@@ -1,36 +1,33 @@
 const JOGOS = [
     {
-        id : "01",
-        nome : "Subway Surfers",
-        valor : 13.32,
-        imagem = "subway.jpg"
-
+        id :"01",
+        nome: "Subway Surfres",
+        valor: "R$13,32",
+        imagem: 'subway.jpg',
     },
     {
         id:"02",
         nome:"Yugioh Master Duel",
-        valor: "gratuito",
+        valor: "Gratuito",
         imagem: "yugi.jpg"
     },
     {
         id:"03",
-        nome:"Pokemon go",
-        valor:"gratuito",
+        nome:"Pokemon Go",
+        valor:"Gratuito",
         imagem:"pokemon.jpg"
     },
     {
         id:"04",
-        nome:"Hora da aventura",
+        nome:"Hora de aventura",
         valor:"R$10,00",
-        imagem:"aventura.jpg"
-
+        imagem:"aventura.jpg",
     },
     {
         id:"05",
         nome:"Dragon Ball Fight",
-        valor:"R$18,00",
+        valor:"R$8,00",
         imagem:"dbz.jpg"
     }
 ]
 export default JOGOS;
-     
